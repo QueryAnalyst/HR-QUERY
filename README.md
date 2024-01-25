@@ -5,7 +5,7 @@
 <h1 style="font-size: 20px;">Overview </h1>
 
 The primary objective of this project is to conduct an in-depth analysis of Walmart's sales data, focusing on various key aspects such as top-performing branches, popular products, sales trends, and customer behavior. By leveraging this extensive dataset, the aim is to gain valuable insights that will facilitate the enhancement and optimization of sales strategies.
-<h1 style="font-size: 20px;"> Features </h1>
+<h1 style="font-size: 20px;"> Features </h1> 
 
 - Data Source: Walmart sales data.
 - Technology: MySQL.
