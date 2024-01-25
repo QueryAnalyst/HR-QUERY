@@ -3,7 +3,7 @@
 -- FEATURE ENGINEERING 
 
 -- Time_of_day
-SELECT
+SELECT 
 	time,
     (CASE
 		When Time Between "00:00:00" AND "12:00:00" THEN "MORNING"
